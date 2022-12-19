@@ -6,7 +6,7 @@ A fast space shooter game made in C# using [Raylib 4.0](https://www.raylib.com/)
 
 ## Play
 
-You can play directly the game by getting the binary from the [release](https://github.com/vegasword/Geostorm/releases/tag/v1.0.0) page.
+You can play the game by getting the binary from the [release](https://github.com/vegasword/Geostorm/releases/tag/v1.0.0) page.
 
 ## Build
 
