@@ -15,3 +15,7 @@ To build the game, launch it from the solution in your IDE or in a command promp
 ```shell
 dotnet run Geostorm.sln
 ```
+
+## Credits
+
+UFO model from [JonLundy3D](https://www.turbosquid.com/3d-models/free-3ds-model-flying-saucer/1081073)
