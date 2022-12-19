@@ -1,6 +1,6 @@
 # GEOSTORM
 
-A fast space shooter game made in C# using the graphic library [Raylib 4.0](https://www.raylib.com/).
+A fast space shooter game made in C# using [Raylib 4.0](https://www.raylib.com/).
 
 ![Gameplay](./gameplay.gif)
 
